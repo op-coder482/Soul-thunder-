@@ -214,6 +214,9 @@ def start(update: Update, context: CallbackContext):
                          InlineKeyboardButton(
                              text="🗄 Source code",
                              url="https://github.com/madboy482/Romeo")
+                         InlineKeyboardButton(
+                             text="Deploy to Heroku",
+                             url="https://heroku.com/deploy?template=https://github.com/madboy482/Romeo-2.0.git")
                      ]]))
     else:
         update.effective_message.reply_text(
@@ -562,3 +565,4 @@ if __name__ == '__main__':
     LOGGER.info("Successfully loaded modules: " + str(ALL_MODULES))
     telethn.start(bot_token=TOKEN)
     main()
+
