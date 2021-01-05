@@ -53,7 +53,6 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hi {}, my name is {}! 
 I am a Superb Group Management Bot.
-Build by weebs for weebs, I specialize in managing anime and similar themed groups.
 You can find my list of available commands with /help.
 """
 
@@ -218,7 +217,7 @@ def start(update: Update, context: CallbackContext):
                      ]]))
     else:
         update.effective_message.reply_text(
-            "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>"
+            "Yuus, I'm Online!😉😉\n<b>Haven't slept since:👀</b> <code>{}</code>"
             .format(uptime),
             parse_mode=ParseMode.HTML)
 
