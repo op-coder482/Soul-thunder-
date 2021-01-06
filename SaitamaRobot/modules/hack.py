@@ -6,8 +6,8 @@ import asyncio
 import os
 import sys
 import random
-from userbot.utils import admin_cmd
-from userbot import bot as borg
+from SaitamaRobot.utils import admin_cmd
+from SaitamaRobot import bot as borg
 
 @borg.on(admin_cmd(pattern="hack ?(.*)"))
 async def _(event):
