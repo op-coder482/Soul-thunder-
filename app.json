@@ -1,14 +1,14 @@
 {
-      "name": "Romeo",
+      "name": "Mewtwo",
       "description": "A Superb Telegram Group Manager Bot",
-      "logo": "https://telegra.ph/file/de271f11ee1047870050a.jpg",
+      "logo": "https://telegra.ph/file/09cf038a2c726fd25ca22.jpg",
       "keywords": [
          "Telegram",
          "Group",
          "Manager",
-         "Romeo"
+         "Mewtwo"
       ],   
-   "repository": "https://github.com/madboy482/Romeo",
+   "repository": "https://github.com/op-coder482/Soul-thunder-",
    "addons": [
       {
          "options": {
@@ -45,12 +45,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Warning_MadBoy_is_Here"
+         "value": "SWAMI_2_0_0_5"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit. But be like: Romeo1BotSupport. If this ever points to Romeo support than consider you made an enemy.",
          "required": true,
-         "value": "Romeo1BotSupport"
+         "value": "Mewtwobotsupport"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
