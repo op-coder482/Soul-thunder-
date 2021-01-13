@@ -1,15 +1,15 @@
-![Romeo](https://telegra.ph/file/929a3cffe8935f0a445e6.jpg)
+![Mewtwo](https://telegra.ph/file/09cf038a2c726fd25ca22.jpg)
 
-# Romeo
+# Mewtwo
 
-[![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://telegram.me/Romeo1Bot_Support)
+[![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/mewtwo1_botsupport)
 
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Saitama suitable for Anime and Manga group chats. 
 
-Can be found on telegram as [Romeo](https://telegram.me/Romeo1Bot).
+Can be found on telegram as [Mewtwo](https://t.me/mewtwo1_bot).
 
-The Support group can be reached out to at [Romeo Bot Support](https://telegram.me/Romeo1Bot_Support), where you can ask for help about [Romeo](https://telegram.me/Romeo1Bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Mewtwo bot support](https://telegram.me/mewtwo1_botsupport), where you can ask for help about [Mewtwo](https://t.me/mewtwo1_bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 ## How to setup/deploy.
 
@@ -21,7 +21,7 @@ The Support group can be reached out to at [Romeo Bot Support](https://telegram.
 
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
-
+Up 
 ```
 Fill in all the details, Deploy!
 Now go to https://dashboard.heroku.com/apps/(app-name)/resources ( Replace (app-name) with your app name )
@@ -29,7 +29,7 @@ REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/madboy482/Romeo.git)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/op-coder482/Soul-thunder-.git)
 
 </details>  
 <details>
@@ -57,7 +57,7 @@ from SaitamaRobot.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 1078841825  # your telegram ID
-    OWNER_USERNAME = "Warning_MadBoy_is_Here"  # your telegram username
+    OWNER_USERNAME = "SWAMI_2_0_0_5"  # your telegram username
     API_KEY = "your bot api key"  # your api key, as provided by the @botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     JOIN_LOGGER = '-1234567890' # some group chat that your bot is a member of
@@ -74,18 +74,18 @@ So just go and read the config sample file.
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/madboy482/Romeo.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/op-coder482/Soul-thunder-.git) 
 
 
 ## Credits
 The bot is based on the original work done by <b>[PaulSonOfLars](https://github.com/PaulSonOfLars)</b>
 All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
 
-<b>Fork Developer --></b> <b><i>[MADBOY](https://github.com/madboy482)</i></b>
-or <b><i>[MADBOY](https://telegram.me/Warning_MadBoy_is_Here)</i></b>
+<b>Fork Developer --></b> <b><i>[SWAMI](https://github.com/op-coder482)</i></b>
+or <b><i>[SWAMI](https://t.me/SWAMI_2_0_0_5)</i></b>
 
 Also, missing proper credit for blacklistusers taken from TheRealPhoenixBot (will add it later, this note says unless it is done)
 
 Any other authorship/credits can be seen through the commits.
 
-Should any be missing kindly let us know at [Romeo Bot Support](https://telegram.me/Romeo1Bot_Support) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [Mewtwo bot support](https://t.me/mewtwo1_botsupport) or simply submit a pull request on the readme.
