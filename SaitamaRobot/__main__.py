@@ -75,7 +75,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ROMEO_IMG = "https://telegra.ph/file/929a3cffe8935f0a445e6.jpg"
+ROMEO_IMG = "https://telegra.ph/file/09cf038a2c726fd25ca22.jpg"
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -193,27 +193,27 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="☑️ Add Romeo to your group",
+                            text="☑️ Add Mewtwo to your group",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [
                          InlineKeyboardButton(
                              text="🚑 Support Channel",
-                             url=f"https://t.me/Romeo_JulietBot_Support"),
+                             url=f"https://t.me/mewtwo_bot1"),
                          InlineKeyboardButton(
                              text="Support Chat 🚑",
-                             url="https://t.me/Romeo_JulietBotSupport")
+                             url="https://t.me/mewtwo1_botsupport")
                      ],
                      [
                          InlineKeyboardButton(
                              text="🧑‍💻Developer🧑‍💻",
-                             url="https://t.me/Warning_MadBoy_is_Here")
+                             url="https://t.me/SWAMI_2_0_0_5")
                      ],
                      [
                          InlineKeyboardButton(
                              text="🗄 Source code",
-                             url="https://github.com/madboy482/Romeo")
+                             url="https://github.com/op-coder482/Soul-thunder-")
                      ]]))
     else:
         update.effective_message.reply_text(
