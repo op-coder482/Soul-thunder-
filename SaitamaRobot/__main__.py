@@ -217,7 +217,7 @@ def start(update: Update, context: CallbackContext):
                      ]]))
     else:
         update.effective_message.reply_text(
-            "Yuus, I'm Online!😉😉\n<b>Haven't slept since:👀</b> <code>{}</code>"
+            "Heya mewtwo is awaken,I'm Online!😉😉\n<b>Haven't slept since:👀</b> <code>{}</code>"
             .format(uptime),
             parse_mode=ParseMode.HTML)
 
