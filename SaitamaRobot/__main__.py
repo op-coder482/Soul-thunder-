@@ -207,7 +207,7 @@ def start(update: Update, context: CallbackContext):
                      ],
                      [
                          InlineKeyboardButton(
-                             text="🧑‍💻Developer🧑‍💻",
+                             text="Pro Developer 😁😁",
                              url="https://t.me/SWAMI_2_0_0_5")
                      ],
                      [
