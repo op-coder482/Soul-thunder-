@@ -48,7 +48,7 @@
          "value": "SWAMI_2_0_0_5"
       },
       "SUPPORT_CHAT": {
-         "description": "Your Telegram support group chat username where your users will go and bother you with shit. But be like: Romeo1BotSupport. If this ever points to Romeo support than consider you made an enemy.",
+         "description": "Your Telegram support group chat username where your users will go and bother you with shit. But be like: mewtwo1_botsupport. If this ever points to Mewtwo  support than consider you made an enemy.",
          "required": true,
          "value": "Mewtwobotsupport"
       },
@@ -73,7 +73,7 @@
          "value": "-xyz"
       },
       "DEV_USERS": {
-         "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Romeo support then keep the current IDs here at they are and add yours.",
+         "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Mewtwo support then keep the current IDs here at they are and add yours.",
          "required": false,
          "value": "1107922726"
       },
