@@ -91,14 +91,11 @@ Any other authorship/credits can be seen through the commits.
 Should any be missing kindly let us know at [Mewtwo bot support](https://t.me/mewtwo1_botsupport) or simply submit a pull request on the readme.
 
 ## Devlopement
-
 This repo is made by [Swami](https://t.me/Swami_2_0_0_5)
 You can also get by searching on telegram search bar @swami_2_0_0_5
 
 ## Note 
-
 Don't ask us for help in forking and editing of repo in this case you will be banned from support group
 
 ## Assistance 
-
 This bot is assisted by [Black Panther](https://t.me/black_panther54
